@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom EPG Generator">
+
+  <!-- RÁDIO VERDES CAMPOS 103.5 FM -->
+  <channel id="radio.verdes.campos.103.5.fm">
+    <display-name>RÁDIO VERDES CAMPOS 103.5 FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.verdes.campos.103.5.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO GLOBO 98.1 FM -->
+  <channel id="radio.globo.98.1.fm">
+    <display-name>RÁDIO GLOBO 98.1 FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.globo.98.1.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO BANDEIRANTES 107.3 FM -->
+  <channel id="radio.bandeirantes.107.3.fm">
+    <display-name>RÁDIO BANDEIRANTES 107.3 FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.bandeirantes.107.3.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO BANDNEWS 96.9 FM -->
+  <channel id="radio.bandnews.96.9.fm">
+    <display-name>RÁDIO BANDNEWS 96.9 FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.bandnews.96.9.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO JP NEWS 100.9 FM -->
+  <channel id="radio.jp.news.100.9.fm">
+    <display-name>RÁDIO JP NEWS 100.9 FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.jp.news.100.9.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO VERDES MARES FM -->
+  <channel id="radio.verdes.mares.fm">
+    <display-name>RÁDIO VERDES MARES FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.verdes.mares.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO TV JUSTIÇA -->
+  <channel id="radio.tv.justica">
+    <display-name>RÁDIO TV JUSTIÇA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.tv.justica">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO NERY FM -->
+  <channel id="radio.nery.fm">
+    <display-name>RÁDIO NERY FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.nery.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO GOSPEL -->
+  <channel id="radio.gospel">
+    <display-name>RÁDIO GOSPEL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.gospel">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO FM 93 MHZ -->
+  <channel id="radio.fm.93.mhz">
+    <display-name>RÁDIO FM 93 MHZ</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.fm.93.mhz">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO MEIO NORTE -->
+  <channel id="radio.meio.norte">
+    <display-name>RÁDIO MEIO NORTE</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.meio.norte">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO NOVO TEMPO -->
+  <channel id="radio.novo.tempo">
+    <display-name>RÁDIO NOVO TEMPO</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.novo.tempo">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO MAANAIM -->
+  <channel id="radio.maanaim">
+    <display-name>RÁDIO MAANAIM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.maanaim">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO ISFM -->
+  <channel id="radio.isfm">
+    <display-name>RÁDIO ISFM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.isfm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO MELPHIS FM -->
+  <channel id="radio.melphis.fm">
+    <display-name>RÁDIO MELPHIS FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.melphis.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO NOVA BRASIL -->
+  <channel id="radio.nova.brasil">
+    <display-name>RÁDIO NOVA BRASIL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.nova.brasil">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO EVANGELIZAR FM -->
+  <channel id="radio.evangelizar.fm">
+    <display-name>RÁDIO EVANGELIZAR FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.evangelizar.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO VOX GOSPEL FM -->
+  <channel id="radio.vox.gospel.fm">
+    <display-name>RÁDIO VOX GOSPEL FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.vox.gospel.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO RBC FM -->
+  <channel id="radio.rbc.fm">
+    <display-name>RÁDIO RBC FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.rbc.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO GOV -->
+  <channel id="radio.gov">
+    <display-name>RÁDIO GOV</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.gov">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO JORNAL -->
+  <channel id="radio.jornal">
+    <display-name>RÁDIO JORNAL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.jornal">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO SENADO -->
+  <channel id="radio.senado">
+    <display-name>RÁDIO SENADO</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.senado">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO ITALAIA -->
+  <channel id="radio.italaia">
+    <display-name>RÁDIO ITALAIA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.italaia">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO CÂMARA -->
+  <channel id="radio.camara">
+    <display-name>RÁDIO CÂMARA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.camara">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO CANÇÃO NOVA SÃO PAULO -->
+  <channel id="radio.cancao.nova.sao.paulo">
+    <display-name>RÁDIO CANÇÃO NOVA SÃO PAULO</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.cancao.nova.sao.paulo">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO CANÇÃO NOVA - ESPERANÇA -->
+  <channel id="radio.cancao.nova.esperanca">
+    <display-name>RÁDIO CANÇÃO NOVA - ESPERANÇA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.cancao.nova.esperanca">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO SAUDADE FM -->
+  <channel id="radio.saudade.fm">
+    <display-name>RÁDIO SAUDADE FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.saudade.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO REDE VIDA -->
+  <channel id="radio.rede.vida">
+    <display-name>RÁDIO REDE VIDA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.rede.vida">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO BOA NOVA -->
+  <channel id="radio.boa.nova">
+    <display-name>RÁDIO BOA NOVA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.boa.nova">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO REDE SUPER -->
+  <channel id="radio.rede.super">
+    <display-name>RÁDIO REDE SUPER</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.rede.super">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO IMACULADA -->
+  <channel id="radio.imaculada">
+    <display-name>RÁDIO IMACULADA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.imaculada">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO CBN SÃO PAULO -->
+  <channel id="radio.cbn.sao.paulo">
+    <display-name>RÁDIO CBN SÃO PAULO</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.cbn.sao.paulo">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO CLUBE NEWS -->
+  <channel id="radio.clube.news">
+    <display-name>RÁDIO CLUBE NEWS</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.clube.news">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO ARARIPE FM -->
+  <channel id="radio.araripe.fm">
+    <display-name>RÁDIO ARARIPE FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.araripe.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO GRANDE SERRA FM -->
+  <channel id="radio.grande.serra.fm">
+    <display-name>RÁDIO GRANDE SERRA FM</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.grande.serra.fm">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO ANTENA 1 SÃO PAULO -->
+  <channel id="radio.antena.1.sao.paulo">
+    <display-name>RÁDIO ANTENA 1 SÃO PAULO</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.antena.1.sao.paulo">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO CULTURA FM PICOS -->
+  <channel id="radio.cultura.fm.picos">
+    <display-name>RÁDIO CULTURA FM PICOS</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.cultura.fm.picos">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+  <!-- RÁDIO CIDADE VERDE -->
+  <channel id="radio.cidade.verde">
+    <display-name>RÁDIO CIDADE VERDE</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="radio.cidade.verde">
+    <title lang="pt">Canais de Áudio</title>
+    <desc lang="pt">Rádios FM, Acompanhe a programação das rádios</desc>
+  </programme>
+
+</tv>
+    
