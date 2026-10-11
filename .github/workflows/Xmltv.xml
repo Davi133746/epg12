@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom TV EPG Generator">
+
+  <!-- TV CULTURA -->
+  <channel id="tv.cultura">
+    <display-name>TV CULTURA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.cultura">
+    <title lang="pt">Programação Geral - TV Cultura</title>
+    <desc lang="pt">Acompanhe a programação educativa, cultural e jornalística da TV Cultura.</desc>
+  </programme>
+
+  <!-- GLOBO ALTERNATIVA -->
+  <channel id="globo.alternativa">
+    <display-name>GLOBO ALTERNATIVA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="globo.alternativa">
+    <title lang="pt">Rede Globo - Transmissão Alternativa</title>
+    <desc lang="pt">Novelas, telejornais, entretenimento e cobertura esportiva.</desc>
+  </programme>
+
+  <!-- BAND NACIONAL -->
+  <channel id="band.nacional">
+    <display-name>BAND NACIONAL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="band.nacional">
+    <title lang="pt">Programação Band</title>
+    <desc lang="pt">Esportes, jornalismo, entretenimento e programas de auditório.</desc>
+  </programme>
+
+  <!-- RECORDTV NACIONAL -->
+  <channel id="recordtv.nacional">
+    <display-name>RECORDTV NACIONAL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="recordtv.nacional">
+    <title lang="pt">Programação RecordTV</title>
+    <desc lang="pt">Telejornais, novelas, realities e programas de entretenimento.</desc>
+  </programme>
+
+  <!-- SBT CIDADE VERDE -->
+  <channel id="sbt.cidade.verde">
+    <display-name>SBT CIDADE VERDE</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="sbt.cidade.verde">
+    <title lang="pt">Programação SBT</title>
+    <desc lang="pt">Entretenimento, auditórios, séries e jornalismo.</desc>
+  </programme>
+
+  <!-- CANAL EDUCAÇÃO -->
+  <channel id="canal.educacao">
+    <display-name>CANAL EDUCAÇÃO</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="canal.educacao">
+    <title lang="pt">Teleaula e Conteúdo Educativo</title>
+    <desc lang="pt">Aulas e transmissões voltadas para a educação pública.</desc>
+  </programme>
+
+  <!-- FUTURA -->
+  <channel id="futura">
+    <display-name>FUTURA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="futura">
+    <title lang="pt">Canal Futura</title>
+    <desc lang="pt">Conteúdo educativo, documentários e capacitação profissional.</desc>
+  </programme>
+
+  <!-- CANAL GOV -->
+  <channel id="canal.gov">
+    <display-name>CANAL GOV</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="canal.gov">
+    <title lang="pt">Ações e Notícias do Governo Federal</title>
+    <desc lang="pt">Transmissão de atos oficiais, pronunciamentos e serviços públicos.</desc>
+  </programme>
+
+  <!-- TV PAI ETERNO -->
+  <channel id="tv.pai.eterno">
+    <display-name>TV PAI ETERNO</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.pai.eterno">
+    <title lang="pt">Programação Católica</title>
+    <desc lang="pt">Missas, novenas e programas de evangelização.</desc>
+  </programme>
+
+  <!-- TV EVANGELIZAR -->
+  <channel id="tv.evangelizar">
+    <display-name>TV EVANGELIZAR</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.evangelizar">
+    <title lang="pt">Rede Evangelizar</title>
+    <desc lang="pt">Conteúdo cristão, orações, pregações e música sacra.</desc>
+  </programme>
+
+  <!-- TV APARECIDA -->
+  <channel id="tv.aparecida">
+    <display-name>TV APARECIDA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.aparecida">
+    <title lang="pt">A Voz do Santuário</title>
+    <desc lang="pt">Celebrações religiosas, culinária, cultura e jornalismo popular.</desc>
+  </programme>
+
+  <!-- SBT NEWS -->
+  <channel id="sbt.news">
+    <display-name>SBT NEWS (SINAL EXPERIMENTAL)</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="sbt.news">
+    <title lang="pt">Noticiário Contínuo 24h</title>
+    <desc lang="pt">Cobertura jornalística e boletins informativos em tempo real.</desc>
+  </programme>
+
+  <!-- TV CÂMARA -->
+  <channel id="tv.camara">
+    <display-name>TV CÂMARA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.camara">
+    <title lang="pt">Sessões e Comissões</title>
+    <desc lang="pt">Acompanhe ao vivo as votações, debates e trabalhos legislativos.</desc>
+  </programme>
+
+  <!-- AGROCANAL -->
+  <channel id="agrocanal">
+    <display-name>AGROCANAL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="agrocanal">
+    <title lang="pt">Agronegócio em Foco</title>
+    <desc lang="pt">Cotações, leilões, notícias do campo e clima para o produtor rural.</desc>
+  </programme>
+
+  <!-- IMPD TV -->
+  <channel id="impd.tv">
+    <display-name>IMPD TV</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="impd.tv">
+    <title lang="pt">Igreja Mundial do Poder de Deus</title>
+    <desc lang="pt">Cultos, testemunhos e mensagens de fé.</desc>
+  </programme>
+
+  <!-- ISTV -->
+  <channel id="istv">
+    <display-name>ISTV</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="istv">
+    <title lang="pt">Programação Geral ISTV</title>
+    <desc lang="pt">Variedades, entrevistas e entretenimento regional.</desc>
+  </programme>
+
+  <!-- L!KE -->
+  <channel id="like.canal">
+    <display-name>L!KE (CANAL DA CLARO)</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="like.canal">
+    <title lang="pt">Universo do Cinema e Séries</title>
+    <desc lang="pt">Dicas de lançamentos, bastidores de Hollywood e entrevistas exclusivas.</desc>
+  </programme>
+
+  <!-- RBATV -->
+  <channel id="rbatv">
+    <display-name>RBATV</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rbatv">
+    <title lang="pt">Jornalismo e Entretenimento Regional</title>
+    <desc lang="pt">Notícias locais e programação de entretenimento.</desc>
+  </programme>
+
+  <!-- RECORD NEWS -->
+  <channel id="record.news">
+    <display-name>RECORD NEWS</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="record.news">
+    <title lang="pt">Jornalismo 24 Horas</title>
+    <desc lang="pt">Análise política, economia, mundo e prestação de serviços.</desc>
+  </programme>
+
+  <!-- REDE BRASIL -->
+  <channel id="rede.brasil">
+    <display-name>REDE BRASIL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rede.brasil">
+    <title lang="pt">Séries Clássicas e Filmes</title>
+    <desc lang="pt">Programação diversificada com desenhos, seriados clássicos e debates.</desc>
+  </programme>
+
+  <!-- REDE MEIO NORTE -->
+  <channel id="rede.meio.norte">
+    <display-name>REDE MEIO NORTE</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rede.meio.norte">
+    <title lang="pt">Noticiário Regional e Variedades</title>
+    <desc lang="pt">Foco no jornalismo regional e programas de entretenimento.</desc>
+  </programme>
+
+  <!-- TV BRASIL -->
+  <channel id="tv.brasil">
+    <display-name>TV BRASIL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.brasil">
+    <title lang="pt">Cultura, Cidadania e Esporte</title>
+    <desc lang="pt">Desenhos infantis, longas nacionais, música popular e jornalismo público.</desc>
+  </programme>
+
+  <!-- TV CANÇÃO NOVA -->
+  <channel id="tv.cancao.nova">
+    <display-name>TV CANÇÃO NOVA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.cancao.nova">
+    <title lang="pt">Evangelização e Conteúdo Família</title>
+    <desc lang="pt">Programas de formação cristã, entrevistas e música.</desc>
+  </programme>
+
+  <!-- TV NOVO TEMPO -->
+  <channel id="tv.novo.tempo">
+    <display-name>TV NOVO TEMPO</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.novo.tempo">
+    <title lang="pt">Esperança e Qualidade de Vida</title>
+    <desc lang="pt">Saúde, educação cristã, estudos bíblicos e musicais.</desc>
+  </programme>
+
+  <!-- REDE GOSPEL -->
+  <channel id="rede.gospel">
+    <display-name>REDE GOSPEL (SINAL EXPERIMENTAL)</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rede.gospel">
+    <title lang="pt">Música e Louvor</title>
+    <desc lang="pt">Videoclipes, cultos e programação voltada ao público gospel.</desc>
+  </programme>
+
+  <!-- REDE VIDA -->
+  <channel id="rede.vida">
+    <display-name>REDE VIDA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rede.vida">
+    <title lang="pt">O Canal da Família</title>
+    <desc lang="pt">Esportes amadores, missas, debates e jornalismo regional.</desc>
+  </programme>
+
+  <!-- BANDNEWS -->
+  <channel id="bandnews">
+    <display-name>BANDNEWS</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="bandnews">
+    <title lang="pt">Notícias em Tempo Real</title>
+    <desc lang="pt">Informação contínua 24 horas sobre política, economia e mundo.</desc>
+  </programme>
+
+  <!-- CNN BRASIL -->
+  <channel id="cnn.brasil">
+    <display-name>CNN BRASIL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="cnn.brasil">
+    <title lang="pt">Jornalismo de Fato</title>
+    <desc lang="pt">Grandes coberturas, entrevistas exclusivas e análises de mercado.</desc>
+  </programme>
+
+  <!-- JOVEM PAN NEWS -->
+  <channel id="jovem.pan.news">
+    <display-name>JOVEM PAN NEWS</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="jovem.pan.news">
+    <title lang="pt">Opinião e Debate Político</title>
+    <desc lang="pt">Programas de debates, mesas-redondas e notícias de última hora.</desc>
+  </programme>
+
+  <!-- REDE TV NACIONAL -->
+  <channel id="rede.tv.nacional">
+    <display-name>REDE TV NACIONAL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rede.tv.nacional">
+    <title lang="pt">Programação RedeTV!</title>
+    <desc lang="pt">Fofocas, entretenimento, esporte e talk shows.</desc>
+  </programme>
+
+  <!-- XSPORTS -->
+  <channel id="xsports">
+    <display-name>XSPORTS</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="xsports">
+    <title lang="pt">Esportes Radicais e Alternativos</title>
+    <desc lang="pt">Competições, estilo de vida e adrenalina.</desc>
+  </programme>
+
+  <!-- RIT -->
+  <channel id="rit">
+    <display-name>RIT</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rit">
+    <title lang="pt">Rede Internacional de Televisão</title>
+    <desc lang="pt">Programas musicais, entrevistas e conteúdo cristão.</desc>
+  </programme>
+
+  <!-- CANAL DO BOI -->
+  <channel id="canal.do.boi">
+    <display-name>CANAL DO BOI</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="canal.do.boi">
+    <title lang="pt">Leilões e Mercado Pecuário</title>
+    <desc lang="pt">Transmissão de leilões de gado e giro do agronegócio.</desc>
+  </programme>
+
+  <!-- BRTVMAX -->
+  <channel id="brtvmax">
+    <display-name>BRTVMAX</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="brtvmax">
+    <title lang="pt">Variedades e Cultura Regional</title>
+    <desc lang="pt">Conteúdos independentes e entretenimento.</desc>
+  </programme>
+
+  <!-- CANAL DO CRIADOR -->
+  <channel id="canal.do.criador">
+    <display-name>CANAL DO CRIADOR</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="canal.do.criador">
+    <title lang="pt">Pecuária e Informação Rural</title>
+    <desc lang="pt">Tecnologia no campo, manejo e mercado pecuário.</desc>
+  </programme>
+
+  <!-- REDE SUPER -->
+  <channel id="rede.super">
+    <display-name>REDE SUPER</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rede.super">
+    <title lang="pt">Conteúdo Cristão e Juventude</title>
+    <desc lang="pt">Músicas, debates sobre comportamento e mensagens de fé.</desc>
+  </programme>
+
+  <!-- REDE SÉCULO 21 -->
+  <channel id="rede.seculo.21">
+    <display-name>REDE SÉCULO 21</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rede.seculo.21">
+    <title lang="pt">Televisão Educativa e Religiosa</title>
+    <desc lang="pt">Artesanato, saúde, espiritualidade e jornalismo.</desc>
+  </programme>
+
+  <!-- REDE GAZETA -->
+  <channel id="rede.gazeta">
+    <display-name>REDE GAZETA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rede.gazeta">
+    <title lang="pt">Notícias do Espírito Santo</title>
+    <desc lang="pt">Cobertura jornalística regional e prestação de serviços.</desc>
+  </programme>
+
+  <!-- AGRO BRASIL TV -->
+  <channel id="agro.brasil.tv">
+    <display-name>AGRO BRASIL TV</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="agro.brasil.tv">
+    <title lang="pt">O Canal do Campo</title>
+    <desc lang="pt">Inovações tecnológicas agrícolas e entrevistas com especialistas.</desc>
+  </programme>
+
+  <!-- SESC TV -->
+  <channel id="sesc.tv">
+    <display-name>SESC TV</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="sesc.tv">
+    <title lang="pt">Arte, Cultura e Documentários</title>
+    <desc lang="pt">Shows, teatro, dança e produções cinematográficas independentes.</desc>
+  </programme>
+
+  <!-- COM BRASIL -->
+  <channel id="com.brasil">
+    <display-name>COM BRASIL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="com.brasil">
+    <title lang="pt">Cultura e Produções Nacionais</title>
+    <desc lang="pt">Conteúdos independentes de todas as regiões do Brasil.</desc>
+  </programme>
+
+  <!-- TERRAVIVA -->
+  <channel id="terraviva">
+    <display-name>TERRAVIVA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="terraviva">
+    <title lang="pt">O Canal de Agronegócios da Band</title>
+    <desc lang="pt">Notícias dos mercados agrícolas, pecuária e economia rural.</desc>
+  </programme>
+
+  <!-- REDE VIDA + -->
+  <channel id="rede.vida.mais">
+    <display-name>REDE VIDA +</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rede.vida.mais">
+    <title lang="pt">Programação Estendida</title>
+    <desc lang="pt">Séries, entrevistas e conteúdos especiais da Rede Vida.</desc>
+  </programme>
+
+  <!-- REDE VIDA EDUCAÇÃO -->
+  <channel id="rede.vida.educacao">
+    <display-name>REDE VIDA EDUCAÇÃO</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="rede.vida.educacao">
+    <title lang="pt">Educação e Conhecimento</title>
+    <desc lang="pt">Videoaulas, cursos e programas de caráter cultural/pedagógico.</desc>
+  </programme>
+
+  <!-- TV UNIVERSAL -->
+  <channel id="tv.universal">
+    <display-name>TV UNIVERSAL</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.universal">
+    <title lang="pt">Mensagem de Fé</title>
+    <desc lang="pt">Programas espirituais e reflexões religiosas.</desc>
+  </programme>
+
+  <!-- CNT RJ -->
+  <channel id="cnt.rj">
+    <display-name>CNT RJ</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="cnt.rj">
+    <title lang="pt">Central Nacional de Televisão - Rio</title>
+    <desc lang="pt">Programas de entretenimento e prestação de serviços.</desc>
+  </programme>
+
+  <!-- TV GAZIN -->
+  <channel id="tv.gazin">
+    <display-name>TV GAZIN</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.gazin">
+    <title lang="pt">Variedades e Entretenimento</title>
+    <desc lang="pt">Conteúdos corporativos e musicais.</desc>
+  </programme>
+
+  <!-- TV DIÁRIO - FORTALEZA -->
+  <channel id="tv.diario.fortaleza">
+    <display-name>TV DIÁRIO - FORTALEZA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.diario.fortaleza">
+    <title lang="pt">A Cara do Nordeste</title>
+    <desc lang="pt">Forró, cultura nordestina, jornalismo e programas populares.</desc>
+  </programme>
+
+  <!-- TVE BAHIA -->
+  <channel id="tve.bahia">
+    <display-name>TVE BAHIA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tve.bahia">
+    <title lang="pt">Cultura e Esporte Baiano</title>
+    <desc lang="pt">Transmissões de campeonatos locais, cultura e educação.</desc>
+  </programme>
+
+  <!-- TV PARANÁ TURISMO -->
+  <channel id="tv.parana.turismo">
+    <display-name>TV PARANÁ TURISMO</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.parana.turismo">
+    <title lang="pt">Cultura, Educação e Turismo do Paraná</title>
+    <desc lang="pt">Programas educativos e roteiros turísticos do estado.</desc>
+  </programme>
+
+  <!-- TV DIÁRIO DO SERTÃO -->
+  <channel id="tv.diario.do.sertao">
+    <display-name>TV DIÁRIO DO SERTÃO</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.diario.do.sertao">
+    <title lang="pt">Notícias do Sertão</title>
+    <desc lang="pt">Jornalismo regional e cobertura de acontecimentos locais.</desc>
+  </programme>
+
+  <!-- AMAZONSAT -->
+  <channel id="amazonsat">
+    <display-name>AMAZONSAT</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="amazonsat">
+    <title lang="pt">A Voz da Amazônia</title>
+    <desc lang="pt">Sustentabilidade, ecologia, agronegócio e cultura da região amazônica.</desc>
+  </programme>
+
+  <!-- PLAY TV -->
+  <channel id="play.tv">
+    <display-name>PLAY TV</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="play.tv">
+    <title lang="pt">Cultura Pop, Games e Música</title>
+    <desc lang="pt">Animes, videoclipes, mundo geek e tecnologia.</desc>
+  </programme>
+
+  <!-- TV UNIÃO - FORTALEZA -->
+  <channel id="tv.uniao.fortaleza">
+    <display-name>TV UNIÃO - FORTALEZA</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="tv.uniao.fortaleza">
+    <title lang="pt">Entretenimento Jovem</title>
+    <desc lang="pt">Programas de auditório, música e entrevistas voltadas ao público jovem.</desc>
+  </programme>
+
+  <!-- TIMES BRASIL | CNBC -->
+  <channel id="times.brasil.cnbc">
+    <display-name>TIMES BRASIL | CNBC (MANUTENÇÃO)</display-name>
+  </channel>
+  <programme start="20261011000000 -0300" stop="20261012000000 -0300" channel="times.brasil.cnbc">
+    <title lang="pt">Manutenção Técnica</title>
+    <desc lang="pt">Canal em ajustes técnicos ou manutenção programada.</desc>
+  </programme>
+
+  <!-- CNN MONEY -->
+  <channel id="cnn.money">
+    <display-name>CNN MONEY (
